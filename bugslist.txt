@@ -1,0 +1,4 @@
+Bugs List:
+-peekFront() changes the queue once peaked
+-peekFront() only returns front when size of queue is 1
+-Destructor ~Queue() does not destroy all items in queue

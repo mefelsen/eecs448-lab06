@@ -12,7 +12,7 @@
 int main()
 {
 	Test t;
-    t.start();
+  t.start();
 
 	return(0);
 }
